@@ -5,7 +5,7 @@
 ![Responsive Design](https://img.shields.io/badge/Responsive%20Design-FF6F61?style=for-the-badge&logo=responsive-design&logoColor=white)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/5ff28672-1dad-4f43-a2b3-257e378f7ee9/deploy-status)](https://app.netlify.com/sites/recipe-page-frontendmentor-solution/deploys)
 ![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-fefefe?style=for-the-badge&logo=frontend-mentor&logoColor=black)
-[![Last Commit](https://img.shields.io/github/last-commit/Yashi-Singh-9/Recipe-Page?style=for-the-badge)](https://github.com/Yashi-Singh-9/Recipe-Page)
+[![Last Commit](https://img.shields.io/github/last-commit/Yashi-Singh-9/Recipe-Page?style=for-the-badge&cacheSeconds=60)](https://github.com/Yashi-Singh-9/Recipe-Page)
 
 This is a solution to the [Recipe Page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
