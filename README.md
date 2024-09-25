@@ -1,4 +1,11 @@
 # Frontend Mentor - Recipe Page Solution
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Flexbox](https://img.shields.io/badge/Flexbox-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive%20Design-FF6F61?style=for-the-badge&logo=responsive-design&logoColor=white)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5ff28672-1dad-4f43-a2b3-257e378f7ee9/deploy-status)](https://app.netlify.com/sites/recipe-page-frontendmentor-solution/deploys)
+![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-fefefe?style=for-the-badge&logo=frontend-mentor&logoColor=black)
+[![Last Commit](https://img.shields.io/github/last-commit/Yashi-Singh-9/Recipe-Page?style=for-the-badge)](https://github.com/Yashi-Singh-9/Recipe-Page)
 
 This is a solution to the [Recipe Page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
@@ -102,7 +109,7 @@ In future projects, I aim to:
 
 ## Author
 
-- Frontend Mentor - [@Yashi-Singh](https://www.frontendmentor.io/profile/Yashi-Singh-1)
+- Frontend Mentor - [@Yashi-Singh-9](https://www.frontendmentor.io/profile/Yashi-Singh-9)
 - LinkedIn - [@Yashi Singh](www.linkedin.com/in/yashi-singh-b4143a246)
 
 ## Acknowledgments
